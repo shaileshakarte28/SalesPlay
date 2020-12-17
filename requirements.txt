@@ -1,4 +1,11 @@
+certifi==2020.12.5
+chardet==4.0.0
 Django==2.2.2
 gunicorn==20.0.4
+idna==2.10
+jxmlease==1.0.3
 pytz==2020.4
+requests==2.25.1
 sqlparse==0.4.1
+urllib3==1.26.2
+xmltodict==0.12.0
