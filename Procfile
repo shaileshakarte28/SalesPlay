@@ -1,0 +1,1 @@
+web: gunicorn SalesPlayProject.wsgi:application --log-file -
